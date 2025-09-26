@@ -1,0 +1,7 @@
+from Paquete import convertir_dolares, contar_vocales
+
+# Prueba del conversor
+print(convertir_dolares(100, "EUR"))
+
+# Prueba del contador de vocales
+print(contar_vocales("Hola mundo, esto es un ejemplo"))
